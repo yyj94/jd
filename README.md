@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-[项目预览地址](m.yeyanjie.com/jd-app/)
+[项目预览地址](http://m.yeyanjie.com/jd-app/)
 
 ## 技术栈
 
