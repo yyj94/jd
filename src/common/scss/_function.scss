@@ -1,0 +1,7 @@
+@import './variable';
+
+@function size($px) {
+  @return ($px/$font-size-root) + rem;
+}
+
+
